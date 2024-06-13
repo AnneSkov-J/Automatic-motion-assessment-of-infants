@@ -5,6 +5,7 @@ Modeling movement patterns at different developmental stages during the first 6 
 ## Data preparation
 
 File: 0.load_raw_data.py
+
 The file loads raw mat-data files and store data in directories for later use in python
 Furthermore, the file fiters the data according to age
 
